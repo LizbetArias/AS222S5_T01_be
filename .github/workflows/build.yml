@@ -48,3 +48,5 @@ jobs:
             -Dspring.datasource.username=${{ secrets.DATABASE_USERNAME }} \
             -Dspring.datasource.password=${{ secrets.DATABASE_PASSWORD }} \
             org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
+
+            #M
