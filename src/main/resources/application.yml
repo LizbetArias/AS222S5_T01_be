@@ -16,4 +16,4 @@ spring:
 
 # mvn clean install -DskipTests
 # mvn spring-boot:run
-#miau
+#docker-compose up
