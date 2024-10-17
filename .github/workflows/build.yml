@@ -62,3 +62,4 @@ jobs:
           docker tag lizbet/chatiris:${{ github.sha }} lizbet/chatiris:latest
           docker push lizbet/chatiris:${{ github.sha }}
           docker push lizbet/chatiris:latest
+#miau
